@@ -1,0 +1,8 @@
+Before uploading the project:
+
+1. Open README.md.
+2. Replace Student 1, Student 2, etc. with the real names.
+3. Replace 000000 with the real student IDs.
+4. Run the project once using: python main.py
+5. Make sure the screenshot exists in screenshots/app_preview.png.
+6. Upload the files to GitHub.

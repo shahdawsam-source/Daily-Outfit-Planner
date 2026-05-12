@@ -1,0 +1,51 @@
+[
+    {
+        "name": "White Shirt",
+        "category": "Top",
+        "color": "White",
+        "occasion": "University",
+        "weather": "Mild"
+    },
+    {
+        "name": "Blue Jeans",
+        "category": "Bottom",
+        "color": "Blue",
+        "occasion": "University",
+        "weather": "Any"
+    },
+    {
+        "name": "Black Sneakers",
+        "category": "Shoes",
+        "color": "Black",
+        "occasion": "University",
+        "weather": "Any"
+    },
+    {
+        "name": "Grey Hoodie",
+        "category": "Outerwear",
+        "color": "Grey",
+        "occasion": "Casual",
+        "weather": "Cold"
+    },
+    {
+        "name": "Polo T-Shirt",
+        "category": "Top",
+        "color": "Navy",
+        "occasion": "Casual",
+        "weather": "Hot"
+    },
+    {
+        "name": "Beige Chinos",
+        "category": "Bottom",
+        "color": "Beige",
+        "occasion": "Casual",
+        "weather": "Mild"
+    },
+    {
+        "name": "Brown Loafers",
+        "category": "Shoes",
+        "color": "Brown",
+        "occasion": "Casual",
+        "weather": "Mild"
+    }
+]
